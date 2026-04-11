@@ -1,2 +1,6 @@
 # aulas-do-bruno
-Este Repositorio, será para aulas de Programação web e Mobile e Estrutura de daos
+Este Repositorio, será para fins Academicos
+
+#Materias
+
+Programação web e Mobile e Estrutura de dados
